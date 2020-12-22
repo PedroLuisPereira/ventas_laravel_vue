@@ -1,0 +1,5 @@
+Aplicacion laravel + vue
+
+incompleta
+
+sin plantilla solo bootstrap
